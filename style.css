@@ -1,0 +1,45 @@
+body {
+    color: #303030;
+    background-color: aliceblue;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    margin: 20px 0 10px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 500px;
+    padding: 0 15px;
+    text-align: center;
+}
+
+#time {
+    font-size: 48px;
+    font-weight: 300;
+    margin: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    background-color: rgb(238, 255, 255);
+    border-radius: 1rem;
+}
+
+.btns {
+    text-align: center;
+}
+
+#start, #stop, #reset {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 1rem;
+    font-size: 14px;
+    margin-bottom: 0;
+    padding: 6px 12px;
+    text-align: center;
+}
